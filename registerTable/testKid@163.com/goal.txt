@@ -1,0 +1,2 @@
+accountNumber: FIX54362741.txt, goal: 120.0
+accountNumber: CUR87529455.txt, goal: 100.0

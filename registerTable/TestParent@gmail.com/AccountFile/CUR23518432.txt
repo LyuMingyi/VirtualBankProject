@@ -1,0 +1,10 @@
+Balance: 9999736.5
+Create:2024-05-26 19:39:27
+Transfer as sender,TestParent@gmail.com,CUR23518432.txt,send to,James@qq.com,CUR41615710.txt,6.5,2024-05-28 02:04:10
+Transfer as sender,TestParent@gmail.com,CUR23518432.txt,send to,Tom@qq.com,FIX27367667.txt,111.0,2024-05-28 01:55:31
+Transfer as sender,TestParent@gmail.com,CUR23518432.txt,send to,Tom@qq.com,FIX27367667.txt,10.0,2024-05-28 01:20:35
+Transfer as sender,TestParent@gmail.com,CUR23518432.txt,send to,Tom@qq.com,FIX27367667.txt,111.0,2024-05-27 23:28:22
+Transfer as sender,TestParent@gmail.com,CUR23518432.txt,send to,testKid@163.com,FIX54362741.txt,10.0,2024-05-27 23:22:52
+Transfer as sender,TestParent@gmail.com,CUR23518432.txt,send to,testKid@163.com,CUR87529455.txt,10.0,2024-05-26 19:44:17
+Transfer as sender,TestParent@gmail.com,CUR23518432.txt,send to,testKid@163.com,CUR87529455.txt,4.0,2024-05-26 19:44:11
+Deposit,TestParent@gmail.com,CUR23518432.txt,9999999.0,2024-05-26 19:39:27
